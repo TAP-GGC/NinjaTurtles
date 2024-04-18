@@ -29,6 +29,13 @@
 ## Similar Projects
 
 ## Technology
+This project uses Scratch the Makey Makey. 
+
+### Scratch
+* Scratch is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
+* Scratch has drag-and-drop interfaces. Unlike working with a text-based programming language like Java or C whom you must physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
+* We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax. In fact, our space-themed game is entirely built in Scratch. 
+
 
 ## Project Setup/Installation 
 
