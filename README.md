@@ -36,6 +36,7 @@ This project uses Scratch the Makey Makey.
 * Scratch has drag-and-drop interfaces. Unlike working with a text-based programming language like Java or C whom you must physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
 * We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax. In fact, our space-themed game is entirely built in Scratch.
 
+<img src = "Media/block-based language.png" width ="400" height="200">
 
 
 ## Project Setup/Installation 
