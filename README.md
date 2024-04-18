@@ -57,11 +57,11 @@ You don't need a Scratch account to follow along with the lesson or to play the 
 1. Go to the Scratch website:https://scratch.mit.edu
 2. Click on Create in the top left corner of the screen.
 
-![image](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/1225c593-8431-4114-8339-2d5616724648)
+
 
 3. A blank Scratch workspace will pop up.
 
-![image](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/c3dc7b6a-21e1-4251-a4b2-70dc68ebdb4c)
+
 
 
 
