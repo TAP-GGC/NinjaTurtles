@@ -30,10 +30,10 @@
 1. Tap Expo, February 29th, Georgia Gwinnett College - To promote IT field and the TAP program to college students.
 2. Atlanta Science Festival, March 23. 
 3. Super Saturday Series (S3), April 13, Georgia Gwinnett College - Middle school girls to promote IT and STEM career.
-4. Class Workshops on 4 occasions, to promote IT field to non-IT college students.
+4. Class Workshops on April 5, April 9, April 11, and April 12, to promote IT field to non-IT college students.
 
 ## Similar Projects
-* Monster Makey. If you're interested in another project with the Makey Makey, please check out Monster Makey. 
+* If you're interested in another project with the Makey Makey, please check out Monster Makey. 
 
 ## Technology
 This project uses Scratch the Makey Makey. 
@@ -51,8 +51,13 @@ The code on the left and the right are doing the exact same thing.
 ### Makey Makey
 * [Makey Makey](https://makeymakey.com/) is a tool set that lets you create a controller using conductive materials to complete the circuit. For our project, we mainly use bananas and Play-Doh, but other conductive materials such as aluminum foil and citrus will also work. 
 
-
 ## Project Setup/Installation 
+You don't need a Scratch account to follow along with the lesson or to play the game. 
+### Opening a blank Scratch page 
+1. Go to the Scratch website:https://scratch.mit.edu
+2. Click on Create in the top left corner of the screen.
+![image](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/1225c593-8431-4114-8339-2d5616724648)
+
 
 ## Short Demo Instructions 
 
