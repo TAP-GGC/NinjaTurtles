@@ -11,6 +11,10 @@
 [Commercial Video](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/94b037a6-8912-44da-8a8c-84c0b8a0afb8)
 
 ## Team
+* Anh Tang
+* Julissa Valdez-Ramos
+* Jean Makita Mbama
+
 ## Advisor
 * Dr. Cindy Robertson
 * Dr. Anca Doloc-Mihu
@@ -19,16 +23,17 @@
 <img src = "Media/Group Photo.webp" width="400" height="200">
 (From left to right: Anh Tang, Julissa Valdez-Ramos, Jean Makita Mbama.) <br>
 
-
 ## Publications 
+1. Anh Tang, Jean Makita Mbama, Julissa Valdez-Ramos, Anca Doloc-Mihu, Cindy Robertson. "Introduction to Programming Techniques Using a Simplified Interactive Game Development Experience", STaRS Symposium, April 11, 2024, Georgia Gwinnett College.  
 
 ## Outreach Activities 
-1. Tap Expo, , Georgia Gwinnett College - To promote IT field and the TAP program to college students.
+1. Tap Expo, February 29th, Georgia Gwinnett College - To promote IT field and the TAP program to college students.
 2. Atlanta Science Festival, March 23. 
 3. Super Saturday Series (S3), April 13, Georgia Gwinnett College - Middle school girls to promote IT and STEM career.
 4. Class Workshops on 4 occasions, to promote IT field to non-IT college students.
 
 ## Similar Projects
+* Monster Makey. If you're interested in another project with the Makey Makey, please check out Monster Makey. 
 
 ## Technology
 This project uses Scratch the Makey Makey. 
