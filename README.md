@@ -20,7 +20,7 @@
 * Dr. Anca Doloc-Mihu
 
 ## Team Photo
-<img src = "Media/Group Photo.webp" width="400" height="200">
+<img src = "Media/Group Photo/STaRS Symposium.webp" width="400" height="200">
 (From left to right: Anh Tang, Julissa Valdez-Ramos, Jean Makita Mbama.) <br>
 
 ## Publications 
