@@ -49,7 +49,8 @@ This project uses Scratch the Makey Makey.
 The code on the left and the right are doing the exact same thing.
 
 ### Makey Makey
-* [Makey Makey](https://makeymakey.com/) is a tool set that lets you create a controller using conductive materials to complete the circuit. For our project, we mainly use bananas and Play-Doh, but other conductive materials such as aluminum foil and citrus will also work. 
+* [Makey Makey](https://makeymakey.com/) is a tool set that lets you create a controller using conductive materials to complete the circuit. For our project, we mainly use bananas and Play-Doh, but other conductive materials such as aluminum foil and citrus will also work.
+
 
 ## Project Setup/Installation 
 You don't need a Scratch account to follow along with the lesson or to play the game. 
