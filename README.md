@@ -50,6 +50,9 @@ The code on the left and the right are doing the exact same thing.
 
 ### Makey Makey
 * [Makey Makey](https://makeymakey.com/) is a tool set that lets you create a controller using conductive materials to complete the circuit. For our project, we mainly use bananas and Play-Doh, but other conductive materials such as aluminum foil and citrus will also work.
+* How to use the alligator clips: 
+
+<img src = "Media/Technology/makeyboardclip.gif" width="200" height="200">
 
 
 ## Project Setup/Installation 
