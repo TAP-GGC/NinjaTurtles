@@ -61,7 +61,7 @@ You don't need a Scratch account to follow along with the lesson or to play the 
 [Click here](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
 
 ### Getting to the game 
-[Click here](/Documents/tutorial/Getting%20to%20the%20game.md)
+[Click here](/Documents/tutorial/Getting%20to%20the%20Game.md)
 
 ## Short Demo Instructions 
 
