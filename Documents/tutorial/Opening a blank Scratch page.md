@@ -6,3 +6,4 @@
 3. A blank Scratch workspace will pop up.
 
 <img src= "Media/scratch%20workspace.png" width="400" height="200">
+![workspace](Media/scratch%20workspace.png)
