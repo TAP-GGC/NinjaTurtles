@@ -58,7 +58,7 @@ The code on the left and the right are doing the exact same thing.
 ## Project Setup/Installation 
 You don't need a Scratch account to follow along with the lesson or to play the game. 
 ### Opening a blank Scratch page 
-[Click here](Documents/tutorial/Opening a blank Scratch page.md)
+[Click here](/Documents/tutorial/Opening a blank Scratch page.md)
 
 ### Getting to the game 
 1. Go to the Scratch website:https://scratch.mit.edu
