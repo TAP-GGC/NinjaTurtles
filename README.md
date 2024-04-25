@@ -66,3 +66,4 @@ You don't need a Scratch account to follow along with the lesson or to play the 
 ## Short Demo Instructions 
 
 ## Workshop Instructions 
+[Click here to view workshop walkthrough](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
