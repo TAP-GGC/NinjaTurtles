@@ -1,9 +1,9 @@
 # Introduction to Programming Techniques Using a Simplified Interactive Game Development Experience 
 ## Description
-* Difficulty Level: Beginner
+* Difficulty Level: Easy
 * Target Audience: 6th grade - College
 * Duration of Workshop: 1 hour 
-* Needed Materials: Computers, Makey Makey, and conductive materials such as bananas and Play-Doh modeling compound.
+* Needed Materials: Computers (with USB access), Scratch.com, Makey Makey, and conductive materials such as bananas and Play-Doh modeling compound.
 * Learning outcomes: The two primary goals of this project is teaching the students the basics of Scratch and giving them a crash course on algorithms.
 * Scratch is a block-based programming language developed by the MIT Media Lab as an educational tool for children. Through our classroom workshops and outreach activities, students get to learn how to program character movement and sprite animation in Scratch, using the fundamental programming concepts such as variables, if-else statements, and loops. These experiences will help them develop problem-solving and logical reasoning skills that can be applied to other programming languages as well as other fields outside of computing. Through this project, we hope to increase interest and participation in STEM; and show that learning how to program can be fun and creative.
 * [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
@@ -28,7 +28,7 @@
 
 ## Outreach Activities 
 1. Tap Expo, February 29th, Georgia Gwinnett College - To promote IT field and the TAP program to college students.
-2. Atlanta Science Festival, March 23. 
+2. [Atlanta Science Festival](https://atlantasciencefestival.org/), March 23, Piedmont Park - To promote computing and technology to children. 
 3. Super Saturday Series (S3), April 13, Georgia Gwinnett College - Middle school girls to promote IT and STEM career.
 4. Class Workshops on April 5, April 9, April 11, and April 12, to promote IT field to non-IT college students.
 
@@ -74,3 +74,10 @@ You don't need a Scratch account to follow along with the lesson or to play the 
 [Click here to view workshop walkthrough](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Workshop Video](Link to workshop video)
+
+## Usage
+1. Press the Left arrow key to move to the left.
+2. Press the Right arrow key to move to the right.
+3. Press the Up arrow key to move up.
+4. Press the Down arrow key to move down.
+
