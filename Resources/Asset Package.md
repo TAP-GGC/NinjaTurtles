@@ -14,6 +14,8 @@ How to download the asset pack:
 
 < img src = "/Media/asset%20pack.png" width="400" height="200">
 
+<img src = "/Media/studio.png" width="400" height="200">
+
 2. ndnvjdsj
 3. djcnsdjn
 
