@@ -40,10 +40,9 @@ Second room: Some of the sprites in this room are not animated. Spot them, then 
 4. Class Workshops on April 5, April 9, April 11, and April 12, to promote IT field to non-IT college students.
 
 ## Similar Projects
-* If you're interested in another project with the Makey Makey, please check out Monster Makey. 
+* If you're interested in another project with the Makey Makey, please check out [Monster Makey](https://github.com/TAP-GGC/MonsterMakey).
 
 ## Technology
-This project uses Scratch the Makey Makey. 
 
 ### Scratch
 <img src = "Media/Technology/scratch logo.png" width="200" height="200">
