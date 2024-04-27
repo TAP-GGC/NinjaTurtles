@@ -1,6 +1,6 @@
 # Introduction to Programming Techniques Using a Simplified Interactive Game Development Experience 
 ## About
-This project is about giving K-12 and non-STEM undergraduate students a crash course on programming using Scratch. We want to show the students a fun and interactive way to learn the fundamental programming concepts such as variables, if-else statements, and loops. 
+This project is about giving K-12 and non-STEM undergraduate students a crash course on programming using Scratch. We want to show the students a fun and interactive way to learn the fundamental programming concepts such as variables, if-else statements, and loops; and walk them through the process of developing an algorithm. 
 ## Description
 * Difficulty Level: Easy
 * Target Audience: 6th grade - College
