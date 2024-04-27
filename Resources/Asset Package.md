@@ -14,7 +14,7 @@ How to download the asset pack:
 
 <img src = "/Media/asset%20pack.png" width="400" height="200">
 
-2. Click 'No thanks, just take me to the downloads" if you only want the demo version of the asset pack. 
+2. Click 'No thanks, just take me to the downloads" if you only want the demo version of the asset pack. There's also a v5 version with more props and items. 
 
 <img src = "/Media/free%20asset%20pack.png" width="400" height="200">
 
