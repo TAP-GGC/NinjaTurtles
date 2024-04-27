@@ -12,7 +12,7 @@ LICENSE: This asset pack can be used in both free and commercial projects.
 How to download the asset pack:
 1. Click on the link above. It will lead you to the website as shown below. Click Download.
 
-< img src = "/Media/asset%20pack.png" width="400" height="200">
+<img src = "/Media/asset%20pack.png" width="400" height="200">
 
 <img src = "/Media/studio.png" width="400" height="200">
 
