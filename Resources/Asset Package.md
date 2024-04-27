@@ -14,10 +14,10 @@ How to download the asset pack:
 
 <img src = "/Media/asset%20pack.png" width="400" height="200">
 
-2. 
+2. Click 'No thanks, just take me to the download" if you only want the demo version of the asset pack. 
 
 <img src = "/Media/free%20asset%20pack.png" width="400" height="200">
 
-3. dvjcdcb
+3. Click Download. 
 <img src = "/Media/download%20asset%20pack.png" width="400" height="200">
 
