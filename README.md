@@ -25,6 +25,11 @@ This project is about giving K-12 and non-STEM undergraduate students a crash co
 <img src = "Media/Team Photo/STaRS Symposium.jpg" width="400" height="200">
 (From left to right: Anh Tang, Julissa Valdez-Ramos, Jean Makita Mbama.) <br>
 
+## Game Description
+First room: The objective of this room is to solve all the programming questions. Every time you click on a blinking object, a programming question will appear on the screen. Read through the question and type your answer to the dialog box at the bottom. If you get the question directly, you will get a point and a star. There are four points in total and the amount of attempts for each question is infinite. 
+
+Second room: Some of the sprites in this room are not animated. Spot them, then go inside the code and program animation for these sprites. 
+
 ## Publications 
 1. Anh Tang, Jean Makita Mbama, Julissa Valdez-Ramos, Anca Doloc-Mihu, Cindy Robertson. "Introduction to Programming Techniques Using a Simplified Interactive Game Development Experience", STaRS Symposium, April 11, 2024, Georgia Gwinnett College.  
 
@@ -64,16 +69,16 @@ The code on the left and the right are doing the exact same thing.
 ## Project Setup/Installation 
 You don't need a Scratch account to follow along with the lesson or to play the game. 
 ### Opening a blank Scratch page 
-[Click here](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
+[Click here to view instructions](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
 
 ### Getting to the game 
-[Click here](/Documents/tutorial/Getting%20to%20the%20Game.md)
+[Click here to view instructions](/Documents/tutorial/Getting%20to%20the%20Game.md)
 
 ## Short Demo Instructions 
 [Demo Video](Link to demmo video)
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
+[Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Workshop Video](Link to workshop video)
 
@@ -82,4 +87,5 @@ You don't need a Scratch account to follow along with the lesson or to play the 
 2. Press the Right arrow key to move to the right.
 3. Press the Up arrow key to move up.
 4. Press the Down arrow key to move down.
+5. You may also replace the arrow keys with a Makey Makey. 
 
