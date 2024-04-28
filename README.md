@@ -52,7 +52,7 @@ Second room: Some of the sprites in this room are not animated. Spot them, then 
 * We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax. In fact, our space-themed game is entirely built in Scratch.
 
 <img src = "Media/Technology/block-based language.png" width ="400" height="200">
-The code on the left and the right are doing the exact same thing.
+The code on the left and the right do the exact same thing.
 
 ### Makey Makey
 * [Makey Makey](https://makeymakey.com/) is a tool set that lets you create a controller using conductive materials to complete the circuit. For our project, we mainly use bananas and Play-Doh, but other conductive materials such as aluminum foil and citrus will also work.
