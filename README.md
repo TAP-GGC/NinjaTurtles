@@ -81,7 +81,7 @@ You don't need a Scratch account to follow along with the lesson or to play the 
 ## Workshop Instructions 
 [Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
 
-[Workshop Video](Link to workshop video)
+[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
 ## Usage
 1. Press the Left arrow key to move to the left.
