@@ -70,14 +70,13 @@ You don't need a Scratch account to follow along with the lesson or to play the 
 ### Opening a blank Scratch page 
 [Click here to view instructions](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
 
-[Video with Scratch instructions]()
+[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
 ### Getting to the game 
 [Click here to view instructions](/Documents/tutorial/Getting%20to%20the%20Game.md)
-[Video on how to install and play our game[()
 
 ## Short Demo Instructions 
-[Demo Video](Link to demmo video)
+[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
 
 ## Workshop Instructions 
 [Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
