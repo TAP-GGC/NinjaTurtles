@@ -7,7 +7,7 @@
 
 The files can be found in the code folder of this repository or accessed directly through the highlighted text above. 
 
-Click on 'view raw' to download (make sure to download a copy to a flash drive if your Classroom doesn’t have access to Google Drive/OneDrive!)
+Click on the files, then click 'view raw' to download (make sure to download a copy to a flash drive if your Classroom doesn’t have access to Google Drive/OneDrive!)
 
 ### Step 2. Uploading to CS First
 
