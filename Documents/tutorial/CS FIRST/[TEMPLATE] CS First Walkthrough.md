@@ -6,8 +6,8 @@ Download the CS FIRST folder to easily integrate the tutorial into your own repo
 
 > NOTE: Be sure to remove this section on your personalized walkthrough!
 
-## Accessing the Workshop File Through CS First
-[//]: # (Feel free to adjust the file to suit your projects needs)
+## Accessing TAP Workshop Files Through CS First
+[//]: # (Feel free to adjust the .md file to suit your projects needs)
 
 ### Step 1. Download the [.sb3](https://github.com/TAP-GGC/NinjaTurtles/blob/main/Code/Complete%20Code%20for%20the%20Game.sb3) file
 
