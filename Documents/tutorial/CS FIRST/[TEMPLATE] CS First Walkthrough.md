@@ -2,7 +2,7 @@
 
 **DOWNLOAD A COPY, RENAME IT WITHOUT THE TEMPLATE MARKER, AND UPLOAD ALONGSIDE THE TEMPLATE**
 
-Download the CS FIRST folder to easily integrate the tutorial into your own repository. Image files used might need to be edited depending on the structure of your workshop repository.
+Download the CS FIRST folder to easily integrate the tutorial into your own repository. Image files used might need to be edited depending on the structure of your workshop repository along with sb3 files.
 
 > NOTE: Be sure to remove this section on your personalized walkthrough!
 
