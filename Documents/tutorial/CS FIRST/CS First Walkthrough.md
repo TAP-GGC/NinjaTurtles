@@ -1,4 +1,4 @@
-## Accessing the Workshop File Through CS First
+## Accessing TAP Workshop Files Through CS First
 [//]: # (Feel free to adjust the file to suit your projects needs)
 
 ### Step 1. Download the [.sb3](/Code) files
