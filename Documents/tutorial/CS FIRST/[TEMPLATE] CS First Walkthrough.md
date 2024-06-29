@@ -2,6 +2,10 @@
 
 **DOWNLOAD A COPY, RENAME IT WITHOUT THE TEMPLATE MARKER, AND UPLOAD ALONGSIDE THE TEMPLATE**
 
+Download the CS FIRST folder to easily integrate the tutorial into your own repository.
+
+> NOTE: Be sure to remove this section on your personalized walkthrough!
+
 ## Accessing the Workshop File Through CS First
 [//]: # (Feel free to adjust the file to suit your projects needs)
 
