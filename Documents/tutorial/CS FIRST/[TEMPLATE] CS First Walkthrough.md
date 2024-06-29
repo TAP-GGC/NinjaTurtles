@@ -1,4 +1,5 @@
-# TEMPLATE ---- UPDATE .SB3 LINKS !!! REMOVE THIS LINE WHEN FINISHED
+**TEMPLATE ---- UPDATE .SB3 LINKS AND IMAGE FILES IF NEEDED !!! REMOVE THIS LINE WHEN FINISHED**
+**KEEP A COPY OF THE TEMPLATE TO REUPLOAD FOR FUTURE PROJECTS**
 
 ## Accessing the Workshop File Through CS First
 [//]: # (Feel free to adjust the file to suit your projects needs)
@@ -16,7 +17,7 @@ Click on 'view raw' to download (make sure to download a copy to a flash drive i
 Open CS First, click the plus sign, and select New Project.
   
 <p align="center">
-<img src = "/Media/Technology/CS FIRST/cs first new project.png" width="250">
+<img src = "/Documents/tutorial/CS FIRST/CS First Media/cs first new project.png" width="250">
 </p>
 
 - Click File
@@ -25,7 +26,7 @@ Open CS First, click the plus sign, and select New Project.
 
 
 <p align="center">
-<img src = "/Media/Technology/CS FIRST/csfirst file.png" width="700">
+<img src = "/Documents/tutorial/CS FIRST/CS First Media/csfirst file.png" width="700">
 </p>
 
 
@@ -33,7 +34,7 @@ Open CS First, click the plus sign, and select New Project.
 
 
 <p align="center">
-<img src = "/Media/Technology/CS FIRST/csfirst load from computer.png" width="250">
+<img src = "/Documents/tutorial/CS FIRST/CS First Media/csfirst load from computer.png" width="250">
 </p>
 
 >TEACHERS: Feel free to work through the workshop on your own to familiarize yourself with the lesson!
