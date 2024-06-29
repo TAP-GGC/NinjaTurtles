@@ -73,7 +73,7 @@ You don't need a Scratch account to follow along with the lesson or to play Spac
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
 ## Accessing TAP Workshop Files with CS First
-[Click here to view instructions](/Documents/tutorial/CS%20FIRST/CS%20First%20Walkthrough.md))
+[Click here to view instructions](/Documents/tutorial/CS%20FIRST/CS%20First%20Walkthrough.md)
 
 ### Getting to the game 
 [Click here to view instructions](/Documents/tutorial/Getting%20to%20the%20Game.md)
