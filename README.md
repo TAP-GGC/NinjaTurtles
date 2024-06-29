@@ -72,6 +72,10 @@ You don't need a Scratch account to follow along with the lesson or to play Spac
 
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
+
+## CS First Installation Walkthrough
+[Click here to view instructions](/Documents/tutorial/CS%20FIRST/CS%20First%20Walkthrough.md)
+
 ### Getting to the game 
 [Click here to view instructions](/Documents/tutorial/Getting%20to%20the%20Game.md)
 
@@ -82,9 +86,6 @@ You don't need a Scratch account to follow along with the lesson or to play Spac
 [Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
-
-## Accessing TAP Workshop Files with CS First
-[Click here to view instructions](/Documents/tutorial/CS%20FIRST/CS%20First%20Walkthrough.md)
 
 ## Usage
 1. Press the Left arrow key to move to the left.
