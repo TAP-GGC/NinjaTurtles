@@ -1,7 +1,7 @@
 ## Accessing the Workshop File Through CS First
 [//]: # (Feel free to adjust the file to suit your projects needs)
 
-### Step 1. Download the [.sb3](https://github.com/TAP-GGC/NinjaTurtles/tree/main/Code) files
+### Step 1. Download the [.sb3](/Code) files
 
 <!--- INSERT YOUR OWN .sb3 FILE IN THE PARENTHESIS!! THIS IS 1/3 LINKS YOU MUST REPLACE--->
 
@@ -61,7 +61,7 @@ Once they’ve downloaded the files, they can follow the same steps taken in Ste
 ### Option 2: Sharing the File via Flash Drive
 
 <p align="center" >
-<b>The</b> <a href="https://github.com/TAP-GGC/NinjaTurtles/blob/main/Code/Complete%20Code%20for%20the%20Game.sb3">.sb3</a> <b>files will have to be downloaded onto a flash drive and uploaded to EVERY individual computer.</b>
+<b>The</b> <a href="https://github.com/TAP-GGC/NinjaTurtles/tree/main/Code">.sb3</a> <b>files will have to be downloaded onto a flash drive and uploaded to EVERY individual computer.</b>
 </p> 
 
 <!--- CONTRIBUTORS: REPLACE THIS LINK 3/3 --->
