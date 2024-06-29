@@ -52,7 +52,7 @@ Here are a few alternative methods suggested by the CS First Customer Support Te
 
 ### Option 1: Sharing the file via Google Drive
 
-If you have a Google Drive/OneDrive account that is accessible to your classroom, you can take the downloaded [.sb3](https://github.com/TAP-GGC/NinjaTurtles/blob/main/Code/Complete%20Code%20for%20the%20Game.sb3) files and upload them somewhere that your students can easily access it. 
+If you have a Google Drive/OneDrive account that is accessible to your classroom, you can take the downloaded [.sb3](/Code) files and upload them somewhere that your students can easily access it. 
 
 <!--- CONTRIBUTORS: REPLACE THIS LINK 2/3--->
 
