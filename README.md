@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="Space Mechanic Logo" src="https://github.com/TAP-GGC/NinjaTurtles/blob/main/Media/SpaceMechanicLogo-Transparent.png?raw=true" height="400" />
+  <h1 align="center">Space Mechanic</h1>
+  <p align="center"> A Beginner's Guide to Programming Fundamentals</p>
+</p>
+
 # Space Mechanic: A Beginner's Guide to Programming Fundamentals
 ## About
 This project, Space Mechanic, is about giving K-12 and non-STEM undergraduate students a crash course on programming using Scratch. We want to show the students a fun and interactive way to learn the fundamental programming concepts such as variables, if-else statements, and loops; and walk them through the process of developing an algorithm. 
