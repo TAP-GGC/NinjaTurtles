@@ -40,10 +40,10 @@ Second room: Some of the sprites in this room are not animated. Spot them, then 
 1. Anh Tang, Jean Makita Mbama, Julissa Valdez-Ramos, Anca Doloc-Mihu, Cindy Robertson. "Introduction to Programming Techniques Using a Simplified Interactive Game Development Experience", STaRS Symposium, April 11, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach Activities 
-1. Tap Expo, February 29th, Georgia Gwinnett College - To promote IT field and the TAP program to college students.
+1. <b>Tap Expo</b>, February 29th, Georgia Gwinnett College - To promote IT field and the TAP program to college students.
 2. [Atlanta Science Festival](https://atlantasciencefestival.org/), March 23, Piedmont Park - To promote computing and technology to children. 
-3. Super Saturday Series (S3), April 13, Georgia Gwinnett College - Middle school girls to promote IT and STEM career.
-4. Class Workshops on April 5, April 9, April 11, and April 12, to promote IT field to non-IT college students.
+3. <b>Super Saturday Series</b> (S3), April 13, Georgia Gwinnett College - To promote IT and STEM careers to middle school girls.
+4. <b>Class Workshops</b>, April 5, April 9, April 11, and April 12, to promote IT field to non-IT college students.
 
 ## :mag_right: Similar Projects
 * If you're interested in other projects that make use of the Makey-Makey, please check out [Monster Makey](https://github.com/TAP-GGC/MonsterMakey)!
