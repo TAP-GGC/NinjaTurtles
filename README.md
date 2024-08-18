@@ -64,7 +64,14 @@ Second room: Some of the sprites in this room are not animated. Spot them, then 
   <p align ="center">The code on the left and the right do the exact same thing.</p>
 </p>
 
-### Makey Makey
+---
+
+<!-- ### Makey Makey -->
+
+<p align="center">
+  <img alt="Scratch Logo" src = "https://github.com/TAP-GGC/NinjaTurtles/blob/main/Media/Makey%20Makey%20Logo.avif" height="150"/>
+</p>
+
 * [Makey Makey](https://makeymakey.com/) is a tool set that lets you create a controller using conductive materials to complete the circuit. For our project, we mainly use bananas and Play-Doh, but other conductive materials such as aluminum foil and citrus will also work.
 * How to set up a Makey Makey:
   
