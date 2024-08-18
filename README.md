@@ -1,64 +1,68 @@
 <p align="center">
-  <img alt="Space Mechanic Logo" src="https://github.com/TAP-GGC/NinjaTurtles/blob/main/Media/SpaceMechanicLogo-Transparent.png?raw=true" height="400" />
+  <img alt="Space Mechanic Logo" src="https://github.com/TAP-GGC/NinjaTurtles/blob/main/Media/SpaceMechanicLogo-Transparent.png?raw=true" height="200" />
   <h1 align="center">Space Mechanic</h1>
   <p align="center"> A Beginner's Guide to Programming Fundamentals</p>
 </p>
 
-# Space Mechanic: A Beginner's Guide to Programming Fundamentals
-## About
+<!-- # Space Mechanic: A Beginner's Guide to Programming Fundamentals -->
+## :loudspeaker: About
 This project, Space Mechanic, is about giving K-12 and non-STEM undergraduate students a crash course on programming using Scratch. We want to show the students a fun and interactive way to learn the fundamental programming concepts such as variables, if-else statements, and loops; and walk them through the process of developing an algorithm. 
-## Description
+## :alien: Description
 * Difficulty Level: Easy
 * Target Audience: 6th grade - College
 * Duration of Workshop: 1 hour 
-* Needed Materials: Computers (with USB access), Scratch.com, Makey Makey, and conductive materials such as bananas and Play-Doh modeling compound.
+* Needed Materials: Computers (with USB access), Scratch.com, Makey Makey, and conductive materials such as bananas and Play-Doh.
 * Learning outcomes: The two primary goals of this project is teaching the students the basics of Scratch and giving them a crash course on algorithms.
 * Scratch is a block-based programming language developed by the MIT Media Lab as an educational tool for children. Through our classroom workshops and outreach activities, students get to learn how to program character movement and sprite animation in Scratch, using the fundamental programming concepts such as variables, if-else statements, and loops. These experiences will help them develop problem-solving and logical reasoning skills that can be applied to other programming languages as well as other fields outside of computing. Through this project, we hope to increase interest and participation in STEM; and show that learning how to program can be fun and creative.
 * [TAP](https://ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) (Technology Ambassadors Program) is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 
 [Commercial Video](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/94b037a6-8912-44da-8a8c-84c0b8a0afb8)
 
-## Team
+## :star: Team
 * Anh Tang
 * Julissa Valdez-Ramos
 * Jean Makita Mbama
 
-## Advisor
+## :dizzy: Advisors
 * Dr. Cindy Robertson
 * Dr. Anca Doloc-Mihu
 
-## Team Photo
+## :rocket: Team Photo
 <img src = "Media/Team Photo/STaRS Symposium.png" width="400" height="200">
 (From left to right: Anh Tang, Julissa Valdez-Ramos, Jean Makita Mbama.) <br>
 
-## Game Description
+## :page_with_curl: Game Description
 First room: The objective of this room is to solve all the programming questions. Every time you click on a blinking object, a programming question will appear on the screen. Read through the question and type your answer to the dialog box at the bottom. If you get the question directly, you will get a point and a star. There are four points in total and the amount of attempts for each question is infinite. 
 
 Second room: Some of the sprites in this room are not animated. Spot them, then go inside the code and program animation for these sprites. 
 
-## Publications 
+## :memo: Publications 
 1. Anh Tang, Jean Makita Mbama, Julissa Valdez-Ramos, Anca Doloc-Mihu, Cindy Robertson. "Introduction to Programming Techniques Using a Simplified Interactive Game Development Experience", STaRS Symposium, April 11, 2024, Georgia Gwinnett College.  
 
-## Outreach Activities 
+## :open_hands: Outreach Activities 
 1. Tap Expo, February 29th, Georgia Gwinnett College - To promote IT field and the TAP program to college students.
 2. [Atlanta Science Festival](https://atlantasciencefestival.org/), March 23, Piedmont Park - To promote computing and technology to children. 
 3. Super Saturday Series (S3), April 13, Georgia Gwinnett College - Middle school girls to promote IT and STEM career.
 4. Class Workshops on April 5, April 9, April 11, and April 12, to promote IT field to non-IT college students.
 
-## Similar Projects
-* If you're interested in another project with the Makey Makey, please check out [Monster Makey](https://github.com/TAP-GGC/MonsterMakey).
+## :mag_right: Similar Projects
+* If you're interested in other projects that make use of the Makey-Makey, please check out [Monster Makey](https://github.com/TAP-GGC/MonsterMakey)!
 
-## Technology
+## :computer: Technology
 
-### Scratch
-<img src = "Media/Technology/scratch logo.png" width="200" height="200">
+
+<p align="center">
+  <img alt="Scratch Logo" src = "Media/Technology/scratch logo.png" width="200" height="200"/>
+</p>
 
 * [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike working with a text-based programming language like Java or C whom you must physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax. In fact, our space-themed game is entirely built in Scratch.
+* Scratch has drag-and-drop interfaces. Unlike working with a text-based programming language like Java or C where you physically type out every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
+* We picked Scratch for our project because it's a fun medium to teach beginners about programming without overwhelming them with syntax. In fact, Space Mechanic was built entirely within Scratch!
 
+<p align="center">
 <img src = "Media/Technology/block-based language.png" width ="400" height="200">
-The code on the left and the right do the exact same thing.
+  <p align ="center">The code on the left and the right do the exact same thing.</p>
+</p>
 
 ### Makey Makey
 * [Makey Makey](https://makeymakey.com/) is a tool set that lets you create a controller using conductive materials to complete the circuit. For our project, we mainly use bananas and Play-Doh, but other conductive materials such as aluminum foil and citrus will also work.
