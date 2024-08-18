@@ -29,7 +29,8 @@ This project, Space Mechanic, is about giving K-12 and non-STEM undergraduate st
 
 ## :rocket: Team Photo
 <img src = "Media/Team Photo/STaRS Symposium.png" width="400" height="200">
-(From left to right: Anh Tang, Julissa Valdez-Ramos, Jean Makita Mbama.) <br>
+
+> (From left to right: Anh Tang, Julissa Valdez-Ramos, Jean Makita Mbama.)
 
 ## :page_with_curl: Game Description
 First room: The objective of this room is to solve all the programming questions. Every time you click on a blinking object, a programming question will appear on the screen. Read through the question and type your answer to the dialog box at the bottom. If you get the question directly, you will get a point and a star. There are four points in total and the amount of attempts for each question is infinite. 
